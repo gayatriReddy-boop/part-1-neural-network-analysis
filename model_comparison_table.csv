@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Activation,Epochs,Batch Size,Accuracy
+Exp1,1,ReLU,20,32,0.9825000166893005
+Exp2,2,ReLU,30,16,0.9725000262260437
+Exp3,2,Tanh,40,64,0.9800000190734863
